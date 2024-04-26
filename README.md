@@ -1,4 +1,4 @@
-# AI-for-Brain-Tumor-Detection
+# ML-for-Brain-Tumor-Detection
 A Comparative Analysis of Brain Tumor Detection Using MRI Images
 
 A comparison was made between five experiments which are :
